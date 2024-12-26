@@ -28,6 +28,7 @@ output/phi/
 output/phi-3/
 output/gemma/
 output/combine/
+output/*
 venv/
 wandb/
 web/label_inner.py
